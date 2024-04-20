@@ -1,5 +1,7 @@
 # MFBot-Webinterface
 
+Currently waiting for full release of mfbot v6.0
+
 A simple webinterface for the [Shakes & Fidget bot](https://hub.docker.com/r/mfbot/mfbot)! 
 
 The webinterface uses the set environment variable to connect to your instance of the mfbot. 
